@@ -136,3 +136,11 @@ Go to AWS Athena → Set an S3 query result location.
 Now you can run any queries!
 example:
 SELECT * FROM stock_data LIMIT 10;
+
+### Query data in Action!
+![Data](./AWSpic1.png)
+
+### Query data Results!
+![Query](./AWSpic2.png)
+
+
